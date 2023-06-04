@@ -1,0 +1,39 @@
+﻿  Ventas.cpp
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(198,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(197,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(283,25): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(347,33): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(385,21): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(446,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(534,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(535,21): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(608,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(609,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  con_proyecto.cpp
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Puestos.h(85,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Puestos.h(84,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Marcas.h(85,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Marcas.h(84,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Empleados.h(93,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Empleados.h(92,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Productos.h(96,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Productos.h(95,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Proveedores.h(88,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Proveedores.h(87,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Cliente.h(90,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Cliente.h(89,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(198,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(197,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(283,25): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(347,33): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(385,21): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(446,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(534,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(535,21): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(608,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Ventas.h(609,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Compras.h(113,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Compras.h(112,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\con_proyecto\Compras.h(176,22): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+  con_proyecto.vcxproj -> C:\Users\CESAR\Desktop\c++\archivosconexionvisualmysql\con_proyecto\x64\Debug\con_proyecto.exe
