@@ -39,6 +39,7 @@ public:
 		telefono = tele;
 	}
 	void empezarcaja() {
+		SerialPort ArduinoPort = new SerialPort();
 		ArduinoPort.PortName = "COM6";
 		ArduinoPort.BaudeRate = 9600;
 		ArduinoPort.Open();
